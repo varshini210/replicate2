@@ -1,0 +1,158 @@
+*
+
+
+.my_bg h1
+{
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+                        
+}
+.my_bg h2
+{
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+                        
+}
+.button{
+  text-align: center;
+  position: absolute;
+  top: 500px;
+  left: 700px;
+
+}
+
+.head {
+  text-align: center;
+}
+
+.textt 
+{ 
+  float: left;
+  width: 50%;
+
+}
+
+.textr 
+{ float: right;
+  width: 50%;
+  
+}
+.bunny{
+
+    background-color:rgb(97, 97, 174);
+    border:5px solid black;
+    padding:4px 4px;
+    width:1500px;
+    height:370px;
+    display: flex;
+    align-items: center;
+    border: 80px red;
+    justify-content: center;
+}
+
+p{
+  color: azure;
+  text-align: center;
+  display: block;
+  
+}
+.img1{
+ 
+  background: rgb(0, 0, 0);
+  display:flex;
+  justify-content: space-between;
+  flex-direction: column;
+  margin: 30px;
+  gap: 5px;
+  
+}
+.img2{
+
+  display:flex;
+  flex-direction:column;
+  justify-content: space-between;
+  gap: 5px;
+  margin: 30px;
+  background: rgb(0, 0, 0);
+}
+.img3{
+  
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 5px;
+  margin: 30px;
+  background: rgb(0, 0, 0);
+}
+.ashh{
+  text-align: center;
+  position: absolute;
+  left: 450px;
+}
+.contact{
+  border:5px solid black;
+  padding:4px 4px;
+  text-align: center;
+  float:left;
+  width:734px;
+  height:20%;
+  position: relative;
+  top:230px;
+  background-color: rgb(129, 84, 171);
+ 
+}
+.about{
+  border:5px solid black;
+  padding:4px 4px;
+  text-align: center;
+  float:right;
+  width:734px;
+  height:20%;
+  position: relative;
+  top:230px;
+  background-color: rgb(112, 165, 147);
+ 
+}
+.footer
+{
+width:99%;
+position: absolute;
+top: 1585px;
+}
+.footer1{
+  border:5px solid black;
+  padding:4px 4px;
+  text-align: center;
+  float:left;
+  width:734px;
+  height:20%;
+  position: relative;
+  background-color:rgb(112, 165, 147);
+}
+.footer2{
+  border:5px solid black;
+  padding:4px 4px;
+  text-align: center;
+  float:right;
+  width:734.5px;
+  height:20%;
+  position: relative;
+  background-color:rgb(129, 84, 171);
+ 
+}
+
+
+
+
+
+  
+
+
+
+
